@@ -31,7 +31,37 @@ body {
     padding: 5px;
 }
 
-.herogridarea {
+.dynamic {
+    width: 300px;
+    height: 300px;
+}
+
+.eye-popping {
+    width: 300px;
+    height: 300px;
+}
+
+.focused {
+    width: 300px;
+    height: 300px;
+}
+
+.personalized {
+    width: 300px;
+    height: 300px;
+}
+
+.crossroads {
+    width: 300px;
+    height: 300px;
+}
+
+.raccoon {
+    width: 300px;
+    height: 300px;
+}
+
+/* .herogridarea {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -41,9 +71,9 @@ body {
     "sec-1 sec-2 sec-3 sec-4"
     "sec-5 sec-6, sec-7 sec-8";
     grid-template-columns: 25% 25% 25% 25%;
-}
+} */
 
-#dynamic {
+/* #dynamic {
     grid-area: sec-1;
     margin: 5px;
     background-image: url(../images/large_images/dynamic.png);
@@ -117,7 +147,7 @@ body {
     background-repeat: no-repeat;
     width: 400px;
     height: 400px;
-}
+} */
 
 
 .projects {
