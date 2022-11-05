@@ -1,0 +1,11 @@
+.navbar navbar-expand-lg navbar-light bg-light {
+    padding: 5px;
+}
+
+
+.tarsier {
+    width: 100px;
+    height:100px;
+    display:flex;
+    justify-content: flex-end;
+}
